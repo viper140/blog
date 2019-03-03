@@ -1,3 +1,3 @@
-#### home page
+# readme
 
-It's my blog([http://blog.ixxoo.me](http://blog.ixxoo.me))
+Victor's blog: ([https://viper140.github.io/](https://viper140.github.io/))
