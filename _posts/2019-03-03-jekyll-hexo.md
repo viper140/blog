@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ekyll和hexo
-tags: [singleton,pattern]
+title: jekyll和hexo
+tags: [jekyll,hexo,博客]
 ---
 
-#### ekyll和hexo
+## jekyll和hexo
