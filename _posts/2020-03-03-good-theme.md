@@ -8,9 +8,9 @@ tags: [singleton,pattern]
 
 ## 技术博客
 
-1. [https://yangbingdong.com/](https://yangbingdong.com/)，简单的扫了一眼，ookamiAntD的博客看着还不错，很多讲spring的好文章。
+1. [https://yangbingdong.com/](https://yangbingdong.com/)：简单的扫了一眼，ookamiAntD的博客看着还不错，很多讲spring的好文章。
 
-2. [https://www.cnkirito.moe/](https://www.cnkirito.moe/)，徐靖峰讲的懒加载与事务不错，其他的还没看。
+2. [https://www.cnkirito.moe/](https://www.cnkirito.moe/)：徐靖峰讲的懒加载与事务不错，其他的还没看。
 
 ## 博客主题
 
@@ -18,9 +18,10 @@ tags: [singleton,pattern]
 
 2. [https://github.com/cheng-kang/hexo-theme-qna](https://github.com/cheng-kang/hexo-theme-qna)
 
-![img](./images/blog-qua.png)
+![img](images/2019/blog-qna.png)
 
 3. [https://github.com/CloverTuan/clovertuan.github.io](https://github.com/CloverTuan/clovertuan.github.io)
 
-![img](./images/blog-clovertuan.png)
+![img](images/2019/blog-clovertuan.png)
 
+4. [https://blog.ixxoo.me](https://blog.ixxoo.me)：我的blog原模原样从他那里抄来的。
