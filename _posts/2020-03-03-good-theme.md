@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 博客主题推荐
+title: 博客推荐
 tags: [singleton,pattern]
 ---
 
-# 博客推荐
+本篇分享一些不错的博客，有的是内容不错，有的是页面视觉不错。
 
-<!--more-->
+# 博客推荐
 
 ## 技术博客
 
