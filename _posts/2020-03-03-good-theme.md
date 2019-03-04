@@ -6,6 +6,8 @@ tags: [singleton,pattern]
 
 # 博客推荐
 
+<!--more-->
+
 ## 技术博客
 
 1. [https://yangbingdong.com/](https://yangbingdong.com/)：简单的扫了一眼，ookamiAntD的博客看着还不错，很多讲spring的好文章。
